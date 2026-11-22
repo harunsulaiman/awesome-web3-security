@@ -406,7 +406,6 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/GrapheneOS/AttestationServer [attestation.app remote attestation server — pairs with GrapheneOS Auditor for sample submission and email-alert remote attestation]
 
 ### Connection
-- https://www.chain.love/ [Chain.Love - open dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery]
 - https://github.com/reown-com/appkit [web]
 - https://github.com/rainbow-me/rainbowkit [web]
 - https://github.com/WalletConnect/walletconnect-monorepo [WalletConnect Monorepo]
