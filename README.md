@@ -617,6 +617,7 @@ npx skills add https://github.com/gmh5225/awesome-web3-security --skill solana-s
 - https://github.com/justshiftjk/EVM-Pumpfun-Solidity-Contract [EVM version of pumpfun smart contract]
 
 ## Security
+- https://chain.love/ [Chain.Love - open dataset of Web3 infrastructure providers, including security services, RPCs, indexers, wallets and explorers, for cross-network service discovery]
 - https://ai-audits.exotechnologies.xyz [Exo AI Audits — AI-powered smart contract auditing platform for Solana programs]
 - https://github.com/OWASP/www-project-smart-contract-top-10 [OWASP Smart Contract Top 10]
 - https://github.com/paradigmxyz/evmbench [Benchmark and harness for finding and exploiting smart contract bugs]
